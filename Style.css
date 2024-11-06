@@ -274,6 +274,7 @@ body {
                     top: auto;
                     left: auto;
                     position: relative;
+                    width: auto;
                 }
 
     
@@ -327,6 +328,7 @@ body {
                                     padding: 20px;
                                     top: auto;
                                     left: auto;
+                                    width: auto;
                                 }
     
         .hero h1 {
